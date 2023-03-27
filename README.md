@@ -8,14 +8,14 @@
 
 
 # Notes
-`
+```
 Please be aware that this hasn't been extensively tested, if you use it and it breaks something. It's your fault.
 
 This can control up to four phases, timings can  be set via serial. I have a program that will control this.
 
-`
+```
 When building this, I wrote the following notes:
-`
+```
 FOUR LOOP PHASES=12 relays
 	LOOP 0
 		state=MANUAL/AUTO
@@ -61,4 +61,4 @@ L1_PA7500//Amber1 phase 7500ms
 L1_PR5000//Red phase 5000ms
 L1_PG5000//green phase 5000ms
 L1_PF2500//Amber2 phase time 2500ms
-`
+```
