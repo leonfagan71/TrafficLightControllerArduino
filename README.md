@@ -1,6 +1,7 @@
 # TrafficLightControllerArduino
 
 ## Controller for traffic lights with msec timing, phase changes in auto/manual modes with triggers etc.
+Essentially - I got bored on a thursday afternoon and decided to write a controller system.
 
 # Bugs:
 - a bucket load
